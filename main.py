@@ -5,9 +5,9 @@ from gui_buttons import Buttons
 button = Buttons()
 button.add_button("person", 20, 20)
 button.add_button("cell phone", 20, 100)
-button.add_button("fork", 20, 180)
+button.add_button("spoon", 20, 180)
 button.add_button("remote", 20, 260)
-button.add_button("cup", 20, 340)
+button.add_button("bottle", 20, 340)
 
 colors = button.colors
 
